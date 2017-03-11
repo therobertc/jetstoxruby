@@ -253,3 +253,203 @@ Processing by PagesController#index as HTML
   Rendered pages/index.html.erb within layouts/application (1.3ms)
   Rendered layouts/_nav.html.erb (0.3ms)
 Completed 200 OK in 278ms (Views: 269.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 76.14.183.233 at 2017-03-11 08:36:51 +0000
+Cannot render console from 76.14.183.233! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (1.3ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 345ms (Views: 334.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 76.14.183.233 at 2017-03-11 08:39:25 +0000
+Cannot render console from 76.14.183.233! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (1.4ms)
+  Rendered layouts/_nav.html.erb (1.1ms)
+Completed 200 OK in 262ms (Views: 254.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 76.14.183.233 at 2017-03-11 08:39:29 +0000
+Cannot render console from 76.14.183.233! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_nav.html.erb (0.0ms)
+Completed 200 OK in 100ms (Views: 99.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 76.14.183.233 at 2017-03-11 08:39:40 +0000
+Cannot render console from 76.14.183.233! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_nav.html.erb (0.0ms)
+Completed 200 OK in 51ms (Views: 50.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 66.102.7.188 at 2017-03-11 09:14:28 +0000
+Cannot render console from 66.102.7.188! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_nav.html.erb (0.1ms)
+Completed 200 OK in 157ms (Views: 157.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 76.14.183.233 at 2017-03-11 10:01:19 +0000
+Cannot render console from 76.14.183.233! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.9ms)
+  Rendered layouts/_nav.html.erb (0.3ms)
+Completed 200 OK in 337ms (Views: 328.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 76.14.183.233 at 2017-03-11 10:09:04 +0000
+Cannot render console from 76.14.183.233! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.6ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 353ms (Views: 343.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 76.14.183.233 at 2017-03-11 10:11:20 +0000
+Cannot render console from 76.14.183.233! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.2ms)
+  Rendered layouts/_nav.html.erb (0.5ms)
+Completed 200 OK in 283ms (Views: 273.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 76.14.183.233 at 2017-03-11 10:12:16 +0000
+Cannot render console from 76.14.183.233! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.3ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 293ms (Views: 285.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 76.14.183.233 at 2017-03-11 10:13:29 +0000
+Cannot render console from 76.14.183.233! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (1.3ms)
+  Rendered layouts/_nav.html.erb (1.1ms)
+Completed 200 OK in 270ms (Views: 261.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 76.14.183.233 at 2017-03-11 10:13:39 +0000
+Cannot render console from 76.14.183.233! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_nav.html.erb (0.1ms)
+Completed 200 OK in 75ms (Views: 74.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 76.14.183.233 at 2017-03-11 10:13:43 +0000
+Cannot render console from 76.14.183.233! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_nav.html.erb (0.0ms)
+Completed 200 OK in 50ms (Views: 49.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 76.14.183.233 at 2017-03-11 10:16:07 +0000
+Cannot render console from 76.14.183.233! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (1.3ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 278ms (Views: 269.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 76.14.183.233 at 2017-03-11 10:16:13 +0000
+Cannot render console from 76.14.183.233! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_nav.html.erb (0.1ms)
+Completed 200 OK in 94ms (Views: 93.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 76.14.183.233 at 2017-03-11 10:16:14 +0000
+Cannot render console from 76.14.183.233! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_nav.html.erb (0.0ms)
+Completed 200 OK in 54ms (Views: 53.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 76.14.183.233 at 2017-03-11 10:19:23 +0000
+Cannot render console from 76.14.183.233! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (1.7ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 393ms (Views: 382.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 76.14.183.233 at 2017-03-11 10:19:28 +0000
+Cannot render console from 76.14.183.233! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_nav.html.erb (0.0ms)
+Completed 200 OK in 42ms (Views: 40.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 76.14.183.233 at 2017-03-11 10:20:47 +0000
+Cannot render console from 76.14.183.233! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_nav.html.erb (0.5ms)
+Completed 200 OK in 289ms (Views: 280.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 76.14.183.233 at 2017-03-11 10:22:22 +0000
+Cannot render console from 76.14.183.233! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.2ms)
+  Rendered layouts/_nav.html.erb (0.9ms)
+Completed 200 OK in 302ms (Views: 292.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/profile" for 76.14.183.233 at 2017-03-11 10:22:27 +0000
+Cannot render console from 76.14.183.233! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#profile as HTML
+  Rendered pages/profile.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_nav.html.erb (0.1ms)
+Completed 200 OK in 94ms (Views: 93.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/profile" for 76.14.183.233 at 2017-03-11 10:26:42 +0000
+Cannot render console from 76.14.183.233! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#profile as HTML
+  Rendered pages/profile.html.erb within layouts/application (1.3ms)
+  Rendered layouts/_nav.html.erb (0.3ms)
+Completed 200 OK in 290ms (Views: 280.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/profile" for 76.14.183.233 at 2017-03-11 10:29:54 +0000
+Cannot render console from 76.14.183.233! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#profile as HTML
+  Rendered pages/profile.html.erb within layouts/application (1.7ms)
+  Rendered layouts/_nav.html.erb (1.1ms)
+Completed 200 OK in 363ms (Views: 350.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/profile" for 76.14.183.233 at 2017-03-11 10:31:45 +0000
+Cannot render console from 76.14.183.233! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#profile as HTML
+  Rendered pages/profile.html.erb within layouts/application (1.9ms)
+  Rendered layouts/_nav.html.erb (1.0ms)
+Completed 200 OK in 331ms (Views: 318.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 76.14.183.233 at 2017-03-11 10:31:56 +0000
+Cannot render console from 76.14.183.233! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_nav.html.erb (0.1ms)
+Completed 200 OK in 117ms (Views: 116.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/profile" for 76.14.183.233 at 2017-03-11 10:31:59 +0000
+Cannot render console from 76.14.183.233! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#profile as HTML
+  Rendered pages/profile.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_nav.html.erb (0.0ms)
+Completed 200 OK in 54ms (Views: 53.9ms | ActiveRecord: 0.0ms)
