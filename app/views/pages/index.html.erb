@@ -1,2 +1,79 @@
-<h1>Pages#index</h1>
-<p>Find me in app/views/pages/index.html.erb</p>
+<% if !user_signed_in? # if user is not signed in, render this %>
+    <style>
+        body {
+            background: linear-gradient( /* somewhat transparent film on top of the BG to make it look darker. */
+            rgba(0,0,0,0.7),
+            rgba(0,0,0,0.7)
+            ), url("/wallstreetpic.jpg") no-repeat center center fixed;
+            
+            /* only display one, horizontal and verticle, dont let scroll change position. */
+            -webkit-background-size: cover; /* cover the whole html element. */
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size cover;
+        }
+        h1 {
+            color: white;
+            font-weight: bold;
+        }
+        .container-index {
+            margin-right: 15%;
+            margin-left: 15%;
+        }
+        .text {
+            color: white;
+            font-weight: 500;
+            font-size: 150%;
+        }
+        .footer-links {
+            text-align: center;
+            color: white;
+            margin-top: 30%;
+            font-size: 75%;
+        }
+        .log-in {
+            float: right;
+            width: 300px;
+            height: 150px;
+            margin-top: 7.5%;
+        }
+        .sign-up {
+            float: right;
+            width: 300px;
+            height: 250px;
+        }
+        
+    </style>
+    
+    <div class="container-index row">
+        <div class="col-sm-6">
+            <h1> Welcome to JetStox.</h1>
+            <p class= "text">
+                Connect with traders. Discover new ideas.
+                Share your experience. <br>
+                Get live updates on company information 
+                and experience <br>
+                the connectivity of the trading world!
+            </p>
+        </div>
+        <div class="col-sm-6">
+                <div class="log-in panel">
+                    Log In
+                </div>    
+                    
+                <div class="sign-up panel">
+                   Sign Up 
+                </div>
+            
+        </div>
+        <div class="col-sm-12">
+        <p class= "footer-links"> About  Help  Blog  Status  Jobs  Terms  Privacy  Cookies  Ads  Info  Brand  Advertise  Business  Media  Developers  Directory  ©  2017  JetStox</p>
+        </div>
+    </div>
+    
+<% else # if the user IS signed in, render the following %>
+
+Signed in
+
+<% end %>
+
